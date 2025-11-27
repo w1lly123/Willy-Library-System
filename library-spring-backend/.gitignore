@@ -1,0 +1,25 @@
+Maven compiled files
+
+target/
+*.jar
+*.war
+
+IDE settings (Eclipse/IntelliJ/VS Code)
+
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+OS system files
+
+.DS_Store
+Thumbs.db
+
+Logs
+
+logs/
+*.log
