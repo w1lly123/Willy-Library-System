@@ -27,7 +27,7 @@ server.port=8081
 
 開啟終端機，進入後端目錄：
 
-cd library-backend
+cd library-spring-backend
 
 
 執行啟動指令：
